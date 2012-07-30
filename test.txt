@@ -1,0 +1,5 @@
+
+    i;jf;aklff (argc < 3) {
+       fprintf(stderr,"usage %s hostname port\n", argv[0]);
+       exit(0);
+    }
